@@ -1,0 +1,15 @@
+html {text-align:left;}
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 60px 0px 0px 0px;
+}
+a{
+   margin-right: 20px;
+}
+ol{
+  word-spacing: normal;
+}
+.subtext {
+  color: #7F7F7F;
+}
