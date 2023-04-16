@@ -12,19 +12,12 @@ body {
   float: left;
   width: 50%;
   padding: 0px;
-}
-a {
-  margin-right: 20px;
-}
+
 ol {
   word-spacing: normal;
 }
 .subtext {
   color: #7F7F7F;
-}
-p a {
-  margin-right: 0;
-}
 
 .homepage-link {
   margin-right: 20px;
