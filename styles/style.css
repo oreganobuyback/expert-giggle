@@ -22,7 +22,10 @@ ol {
 .subtext {
   color: #7F7F7F;
 }
-
 p a {
   margin-right: 0;
+}
+
+.homepage-link {
+  margin-right: 20px;
 }
