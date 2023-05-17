@@ -1,0 +1,11 @@
+<!doctype HTML>
+<html lang='en'>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=0.5" />
+<title>Photo Book</title>
+<link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+<h1>Photo Book</h1>  
+<h3>By Joel Godina</h3>
+<p><a href="thoughts.html">Return</a></p>
