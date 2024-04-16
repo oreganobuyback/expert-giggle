@@ -30,11 +30,17 @@ body {
   margin-right: 0;
 }
 
-a {
-  text-decoration:none;
-}
-
-a:visited {
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
   color: #0000EE;
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
 }
 
