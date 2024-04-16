@@ -14,3 +14,7 @@ ol{
 .subtext {
   color: #7F7F7F;
 }
+
+a:visited {
+  color: #0000EE;
+}
