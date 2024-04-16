@@ -29,4 +29,8 @@ body {
 .video-title-link {
   margin-right: 0;
 }
-=
+
+a:visited {
+  color: #0000EE;
+}
+
