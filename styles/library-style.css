@@ -15,6 +15,10 @@ ol{
   color: #7F7F7F;
 }
 
+a {
+  text-decoration:none;
+}
+
 a:visited {
   color: #0000EE;
 }
